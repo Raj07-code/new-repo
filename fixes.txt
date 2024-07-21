@@ -1,3 +1,8 @@
 i am a new file which is use to fix the bug.
+<<<<<<< HEAD
 
 one more bug detected and fixed.
+=======
+one more bug detected and fixed.
+fourth bug fixed.
+>>>>>>> bug-fix
